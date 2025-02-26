@@ -179,7 +179,7 @@ Marketmaker.cc offers an exciting opportunity for early investors:
 
 This equity investment is separate from the token sale and targets supporters who wish to own a stake in the company. The $500k will accelerate development, bringing our platform to market faster. To participate, contact us via the provided investment link.
 
-The initial token sale of 100,000 MM tokens at 1 USDT each ($100k total) serves as an additional funding mechanism, likely supporting liquidity or community-building efforts.
+The initial token sale of 500,000 MM tokens at 1 USDT each ($500k total) serves as an additional funding mechanism, likely supporting liquidity or community-building efforts.
 
 ---
 
@@ -187,7 +187,9 @@ The initial token sale of 100,000 MM tokens at 1 USDT each ($100k total) serves 
 
 ### For Investors
 - Participate in the pre-seed equity round for ownership in Marketmaker.cc.
-- Purchase MM tokens during the first round via the smart contract or Ston.fi.
+- Purchase MM tokens in the first round via a smart contract on TON that accepts USDT and instantly sends back the equivalent in MM tokens.
+    Contract address: <coming soon>.
+- Buy MM tokens through Ston.fi, where a liquidity pool already exists: https://app.ston.fi/pools/EQAiFB53DSPF1Fvzymos8mR4xGHqXhyRSzT9LoRJzP8jl51g. However, we do not recommend using Ston.fi until the pool achieves sufficient liquidity. MM token address: https://tonviewer.com/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E.
 
 ### For Users
 - Join our platform upon launch to experience next-generation trading tools firsthand.
