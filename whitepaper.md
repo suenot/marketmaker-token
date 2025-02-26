@@ -140,7 +140,7 @@ The MM token is the native utility token of Marketmaker.cc, designed to align th
 
 ### Key Details
 - **Total Supply**: 10,000,000 MM tokens.
-- **Initial Sale**: 100,000 MM tokens sold at 1 USDT each in the first round.
+- **Initial Sale**: 500,000 MM tokens sold at 1 USDT each in the first round.
 - **Sale Platform**: Tokens will be available on a top decentralized exchange (DEX) on the TON network. We recommend **Ston.fi**, a leading DEX for TON, for its accessibility and growing ecosystem.
 
 ### Token Utility
