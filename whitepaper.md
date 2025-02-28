@@ -67,6 +67,13 @@ Marketmaker.cc follows a staged development plan to bring our vision to life:
 - Integration with TradingView.
 - Establishment of a GitHub repository for community-driven strategy sharing.
 
+### Seed Stage 2: Strategy Testing
+- Comprehensive testing on historical data
+- Virtual portfolio testing
+- Real account testing
+- Strategy performance analysis
+- Parameter optimization
+
 This roadmap outlines our progression from foundational trading tools to advanced strategy development, with each stage building on the previous to deliver a fully realized platform.
 
 ---
