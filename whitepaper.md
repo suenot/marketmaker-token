@@ -68,11 +68,11 @@ Marketmaker.cc follows a staged development plan to bring our vision to life:
 - Establishment of a GitHub repository for community-driven strategy sharing.
 
 ### Seed Stage 2: Strategy Testing
-- Comprehensive testing on historical data
-- Virtual portfolio testing
-- Real account testing
-- Strategy performance analysis
-- Parameter optimization
+- Comprehensive testing on historical data.
+- Virtual portfolio testing.
+- Real account testing.
+- Strategy performance analysis.
+- Parameter optimization.
 
 This roadmap outlines our progression from foundational trading tools to advanced strategy development, with each stage building on the previous to deliver a fully realized platform.
 
@@ -123,7 +123,7 @@ Marketmaker.cc leverages a modern, high-performance technology stack to ensure s
   - Rust: Efficient, safe systems programming.  
   - Python: Data analysis and scripting.  
   - TypeScript: Robust frontend development.  
-  - Elixir: Scalable, fault-tolerant applications.
+  - Elixir: Scalable, fault-tolerant applications.  
   - C++: High-performance, resource-efficient systems and applications.
 
 - **Databases**:  
@@ -134,7 +134,7 @@ Marketmaker.cc leverages a modern, high-performance technology stack to ensure s
 - **API and Communication**:  
   - Hasura: Simplified GraphQL API management.  
   - GraphQL: Flexible data querying.  
-  - gRPC: High-speed inter-service communication.
+  - gRPC: High-speed inter-service communication.  
   - Websocket: Real-time, bidirectional communication protocol.
 
 This stack reflects our commitment to building a technically advanced platform capable of meeting the demands of modern trading.
@@ -143,37 +143,48 @@ This stack reflects our commitment to building a technically advanced platform c
 
 ## Tokenomics
 
-The MM token is the native utility token of Marketmaker.cc, designed to align the platform’s success with its community.
+The MM token is the native utility token of Marketmaker.cc, designed to align the platform’s success with its community. It serves as the heart of the Marketmaker.cc ecosystem, linking the platform’s achievements with the interests of its users and investors by combining practical utility for platform participants and investment appeal for token holders.
 
 ### Key Details
 - **Total Supply**: 10,000,000 MM tokens.
-- **Initial Sale**: 500,000 MM tokens sold at 1 USDT each in the first round.
-- **Sale Platform**: Tokens will be available on a top decentralized exchange (DEX) on the TON network. We recommend **Ston.fi**, a leading DEX for TON, for its accessibility and growing ecosystem.
+- **Initial Sale**: 500,000 MM tokens sold at 1 USDT each in the first round (raising $500,000 USDT).
+- **Sale Platform**: Tokens will be available on a top decentralized exchange (DEX) on the TON network, such as **Ston.fi**, a leading DEX for TON, valued for its accessibility and growing ecosystem. Plans include listing on additional platforms.
+- **Target Price in 2 Years**: 2 USDT (a 2x increase over 2 years).
 
 ### Token Utility
-MM tokens will serve various purposes within the platform (to be finalized), potentially including:
-- Paying transaction or subscription fees.
-- Unlocking premium features like advanced analytics or exclusive strategies.
-- Participating in governance decisions.
+MM tokens offer a range of benefits within the platform, enhancing the user experience (specific uses to be finalized):
+- **Service Discounts**: Users pay for services in USDT at a fixed price and receive a 20% discount when paying with MM tokens. Fixed USDT pricing ensures cost stability for users, while MM tokens provide added bonuses without being tied to their volatility.
+- **Exclusive Access**: Holding or staking over 1,000 MM tokens in a liquidity pool unlocks premium features.
+- **Governance Participation**: Future plans include enabling token holders to vote on new features, with MM tokens burned during the voting process.
+- **Enhanced Data Parsing**: Accelerate data collection from specific exchanges and trading pairs.
+- **Faster Order Execution**: Enable order placement on exchanges in as little as 3-5 milliseconds.
+- **One-Time Access**: Unlock specific tools, metrics, signals, and bots with a single MM token payment.
+- **General Uses**: Potentially pay transaction or subscription fees, unlock advanced analytics, or access exclusive strategies.
 
 ### Profit Distribution
-- **50% of Profits**: Allocated to buy back MM tokens from the market.
-- **50% of Profits**: Distributed to the project owners.
+- **50% of Net Profits**: Allocated to buy back MM tokens from the market.
+- **50% of Net Profits**: Distributed to the project owners (not token holders), currently led by @suenot (Eugen Soloviov).
 
 ### Buyback Mechanism
-- Buybacks will occur evenly over time using limit orders.
-- The buyback price will be determined by the project owner, reflecting market conditions and platform performance.
-- This process aims to reduce circulating supply over time, potentially increasing token value as platform income grows.
+- Buybacks will occur evenly over time using orders on decentralized exchanges and smart contracts, with a fixed purchase price.
+- The buyback price will be set by the project owner, reflecting market conditions and platform performance.
+- This mechanism aims to reduce circulating supply over time, potentially increasing token value as platform revenue grows.
 
 ### Token Value
-The value of MM tokens is tied to Marketmaker.cc’s success. As the platform generates revenue, buybacks will support token demand, linking token value to startup income.
+The value of MM tokens is closely tied to Marketmaker.cc’s success. As the platform generates income, buybacks will bolster token demand, linking token value directly to the startup’s financial performance.
+
+### Sources of Platform Revenue
+Token value growth is supported by Marketmaker.cc’s revenue streams, which fund buybacks:
+- **Sales of Access**: Revenue from providing access to strategies, bots, and metrics (up to 30% of strategy profits).
+- **Internal Strategy Use**: Profits from deploying trading strategies internally.
+- **Exchange Partnerships**: Referral commissions from exchanges upon reaching 10,000+ users.
 
 ### First Round Sale
 - **Smart Contract**: Send 1 USDT to the designated smart contract to receive 1 MM token instantly.
-- **Ston.fi Availability**: Tokens will also be listed on Ston.fi, though buyers should note potential liquidity risks due to initial pool sizes.
+- **Ston.fi Availability**: Tokens will also be listed on Ston.fi, though buyers should be cautious of potential liquidity risks due to initial pool sizes.
 
 ### Future Rounds
-Additional investment rounds may occur based on the project owner’s discretion. These could be closed rounds or skipped entirely if funding needs are met.
+Additional investment rounds may occur at the project owner’s discretion. These could be closed rounds or skipped if funding needs are met.
 
 ---
 
@@ -194,9 +205,9 @@ The initial token sale of 500,000 MM tokens at 1 USDT each ($500k total) serves 
 
 ### For Investors
 - Participate in the pre-seed equity round for ownership in Marketmaker.cc.
-- Purchase MM tokens in the first round via a smart contract on TON that accepts USDT and instantly sends back the equivalent in MM tokens.
-    Contract address: <coming soon>.
-- Buy MM tokens through Ston.fi, where a liquidity pool already exists: https://app.ston.fi/pools/EQAiFB53DSPF1Fvzymos8mR4xGHqXhyRSzT9LoRJzP8jl51g. However, we do not recommend using Ston.fi until the pool achieves sufficient liquidity. MM token address: https://tonviewer.com/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E.
+- Purchase MM tokens in the first round via a smart contract on TON that accepts USDT and instantly sends back the equivalent in MM tokens.  
+  Contract address: *<coming soon>*.
+- Buy MM tokens through Ston.fi, where a liquidity pool already exists: [https://app.ston.fi/pools/EQAiFB53DSPF1Fvzymos8mR4xGHqXhyRSzT9LoRJzP8jl51g](https://app.ston.fi/pools/EQAiFB53DSPF1Fvzymos8mR4xGHqXhyRSzT9LoRJzP8jl51g). However, we do not recommend using Ston.fi until the pool achieves sufficient liquidity. MM token address: [https://tonviewer.com/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E](https://tonviewer.com/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E).
 
 ### For Users
 - Join our platform upon launch to experience next-generation trading tools firsthand.
