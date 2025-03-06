@@ -162,8 +162,7 @@ MM tokens offer a range of benefits within the platform, enhancing the user expe
 - **General Uses**: Potentially pay transaction or subscription fees, unlock advanced analytics, or access exclusive strategies.
 
 ### Profit Distribution
-- **50% of Net Profits**: Allocated to buy back MM tokens from the market.
-- **50% of Net Profits**: Distributed to the project owners (not token holders), currently led by @suenot (Eugen Soloviov).
+- **100% of Net Profits**: Allocated to buy back MM tokens from the market.
 
 ### Buyback Mechanism
 - Buybacks will occur evenly over time using orders on decentralized exchanges and smart contracts, with a fixed purchase price.
