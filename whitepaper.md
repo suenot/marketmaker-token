@@ -1,4 +1,4 @@
-# Marketmaker.cc Whitepaper [IN DEVELOPMENT]
+# Marketmaker.cc Whitepaper
 
 ## Introduction
 
@@ -207,6 +207,7 @@ The initial token sale of 500,000 MM tokens at 1 USDT each ($500k total) serves 
 - Purchase MM tokens in the first round via a smart contract on TON that accepts USDT and instantly sends back the equivalent in MM tokens.  
   Contract address: *<coming soon>*.
 - Buy MM tokens through Ston.fi, where a liquidity pool already exists: [https://app.ston.fi/pools/EQAiFB53DSPF1Fvzymos8mR4xGHqXhyRSzT9LoRJzP8jl51g](https://app.ston.fi/pools/EQAiFB53DSPF1Fvzymos8mR4xGHqXhyRSzT9LoRJzP8jl51g). However, we do not recommend using Ston.fi until the pool achieves sufficient liquidity. MM token address: [https://tonviewer.com/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E](https://tonviewer.com/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E).
+- Token in minter.ton.org: [https://minter.ton.org/jetton/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E](https://minter.ton.org/jetton/EQDbJh8ykSfuF8_JcXdFVGHDWdkCI2kNB6o_w76pnLqT7b4E).
 
 ### For Users
 - Join our platform upon launch to experience next-generation trading tools firsthand.
