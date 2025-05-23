@@ -1,4 +1,4 @@
-# Marketmaker.cc Whitepaper
+# Marketmaker.cc Whitepaper [in development stage] 
 
 ## Introduction
 
